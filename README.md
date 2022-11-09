@@ -1,9 +1,7 @@
-✳️ Welcome ✳️
+✳️ Welcome to my GitHub ✳️
 
-![](https://user-images.githubusercontent.com/51968731/115976813-13161080-a572-11eb-942b-d36a7d959bfb.png)
+![](https://cdn.discordapp.com/attachments/882857160768360452/1039850200673566720/aigle.png)
 
 Développeur actuellement focus sur le Python & le JS jusqu'à ce que le C# vienne me dire bonjour.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
 Informatique & cybersécurité depuis 2017.
