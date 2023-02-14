@@ -3,12 +3,12 @@
 
 > Cybersecurity & Linux enthusiast since 2017
 
-```
 Chess.com
+```
 Rapid (950) 
 Blitz (750)
 League : Elite
---> LuvResval
+@ --> LuvResval
 ```
 
 ![](https://cdn.discordapp.com/attachments/1004140269706420224/1074687977776742530/c-.png)
