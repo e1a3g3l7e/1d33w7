@@ -1,9 +1,8 @@
 ✳️ **Welcome to my profile** 
 
 
-> Cybersecurity & Linux enthusiast since 2017
+> Cybersecurity & linux enthusiast since 2017
 
-Chess.com
 ```
 Rapid (950) 
 Blitz (750)
