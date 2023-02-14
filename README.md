@@ -1,12 +1,15 @@
-✳️ **Bienvenue** 
+✳️ **Welcome to my profile** 
 
 
-> Cybersecurity enthusiast
+> Cybersecurity & Linux enthusiast since 2017
 
-> Chesscom Rapid (950) Blitz (750)
-
-> Web Dev
-
+```
+Chess.com
+Rapid (950) 
+Blitz (750)
+League : Elite
+--> LuvResval
+```
 
 ![](https://cdn.discordapp.com/attachments/1004140269706420224/1074687977776742530/c-.png)
 ![](https://cdn.discordapp.com/attachments/1004140269706420224/1074688297403695154/python.png)
