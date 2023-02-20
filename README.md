@@ -4,6 +4,7 @@
 > Cybersecurity & linux enthusiast since 2017
 
 ```
+CHESS.COM
 Rapid (950) 
 Blitz (750)
 League : Elite
