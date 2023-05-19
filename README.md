@@ -3,14 +3,6 @@
 
 > Cybersecurity & linux enthusiast since 2017
 
-```
-CHESS.COM
-Rapid (950) 
-Blitz (750)
-League : Elite
-@ --> LuvResval
-```
-
 ![](https://cdn.discordapp.com/attachments/1004140269706420224/1074978062367719494/c-sharp.png)
 ![](https://cdn.discordapp.com/attachments/1004140269706420224/1074688297403695154/python.png)
 ![](https://cdn.discordapp.com/attachments/1004140269706420224/1074688498080157726/html-5.png)
